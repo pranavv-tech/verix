@@ -1,0 +1,10 @@
+fastapi[all]
+uvicorn[standard]
+sqlalchemy
+alembic
+pydantic[email]
+pdfplumber
+python-dotenv
+requests
+httpx
+PyYAML

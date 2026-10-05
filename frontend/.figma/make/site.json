@@ -1,0 +1,10 @@
+{
+  "description": "Verify and score technical skills by analyzing resumes and GitHub activity to help recruiters assess candidates with AI-powered accuracy.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
