@@ -221,5 +221,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# The frontend imports this source module; do not treat it as a Python lib artifact.
+!frontend/src/lib/
+!frontend/src/lib/**
+
 # Streamlit
 .streamlit/secrets.toml
